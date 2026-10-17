@@ -11,7 +11,7 @@ Personal learning notes for Hello GPU, available in English and Chinese.
 | Folder | Focus |
 |---|---|
 | [Task 0](notes/task-0-environment/note.en.md) | Environment preparation |
-| [Task 1](notes/task-1-execution/) | Threads and data assignment |
+| [Task 1](notes/task-1-execution/note.en.md) | Threads and data assignment |
 | [Task 2](notes/task-2-memory/) | GPU memory and data flow |
 | [Task 3](notes/task-3-validation-timing/) | Correctness and timing |
 | [Task 4](notes/task-4-vector-add/) | Manual vector-add changes |
