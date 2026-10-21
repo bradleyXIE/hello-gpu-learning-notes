@@ -5,3 +5,4 @@ __pycache__/
 .env.*
 !.env.example
 .ipynb_checkpoints/
+AGENTS.md
