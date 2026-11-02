@@ -14,8 +14,8 @@ Personal learning notes for Hello GPU, available in English and Chinese.
 | [Task 1](notes/task-1-execution/note.en.md) | Threads and data assignment |
 | [Task 2](notes/task-2-memory/note.en.md) | GPU memory and data flow |
 | [Task 3](notes/task-3-validation-timing/note.en.md) | Correctness and timing |
-| [Task 4](notes/task-4-vector-add/) | Manual vector-add changes |
-| [Task 5](notes/task-5-agent/) | Agent-assisted optimization |
+| [Task 4](notes/task-4-vector-add/note.en.md) | Manual vector-add changes |
+| [Task 5](notes/task-5-agent/note.en.md) | Agent-assisted optimization |
 
 
 ## Course
